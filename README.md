@@ -66,4 +66,5 @@ I use this repository to share my work and to document my learning journey.
 ## Contact
 
 * Email: [rataulebohang8@gmail.com]
-* LinkedIn:(linkedin.com/in/lebohang-r-16067124b)
+* LinkedIn: [linkedin.com/in/lebohang-r-16067124b](linkedin.com/in/lebohang-r-16067124b)
+

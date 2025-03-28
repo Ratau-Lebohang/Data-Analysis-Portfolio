@@ -39,7 +39,7 @@ I use this repository to share my work and to document my learning journey.
 
 ### Tableau
 
-[Tableau Dashboard Link]([Go to Dashboard](https://public.tableau.com/views/TopStreetFoods/StreetFoodDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Tableau Dashboard]([Go to Dashboard](https://public.tableau.com/views/TopStreetFoods/StreetFoodDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 **Example Screenshot:**
 ![Tableau Dashboard Screenshot](Street_food_dashboard.png)

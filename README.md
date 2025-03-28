@@ -25,7 +25,7 @@ I use this repository to share my work and to document my learning journey.
 
 ### SQL
 
-**File:** [Top Street Food Analysis SQL File](Top Street Food Analysis.sql)
+**File:** ([Top Street Food Analysis.sql](https://github.com/Ratau-Lebohang/Projects/blob/38eb1d62375d70d5e950a2eb54ed77a633be4736/Top%20Street%20Food%20Analysis.sql))
 
 **Goal:** To explore a comprehensive Kaggle dataset of top street food vendors and extract fun, meaningful insights by looking at vendor data, food categories, and customer ratings. (Street Food Analysis Data Source: Enhanced Version of World’s Top Street Foods by Taimoor Khurshid Chughtai (CC0 License))
 
@@ -39,14 +39,14 @@ I use this repository to share my work and to document my learning journey.
 
 ### Tableau
 
-[Tableau Dashboard Link]([Your Tableau Dashboard URL](https://public.tableau.com/views/TopStreetFoods/StreetFoodDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Tableau Dashboard Link]([Go to Dashboard](https://public.tableau.com/views/TopStreetFoods/StreetFoodDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 **Example Screenshot:**
 ![Tableau Dashboard Screenshot](Street_food_dashboard.png)
 
 ### Excel
 
-**File:** [Global Food Wastage Analysis Excel File](Global Food Wastage Analysis.xlsx)
+**File:** ([Global Food Wastage Analysis.xlsx](https://github.com/Ratau-Lebohang/Projects/blob/38eb1d62375d70d5e950a2eb54ed77a633be4736/Global%20Food%20Wastage%20Analysis.xlsx))
 
 **Goal:** To analyze global food wastage data and uncover insights regarding waste distribution by country, food category, and economic impact.
 
@@ -66,4 +66,4 @@ I use this repository to share my work and to document my learning journey.
 ## Contact
 
 * Email: [rataulebohang8@gmail.com]
-* LinkedIn: [Your LinkedIn Profile URL](linkedin.com/in/lebohang-r-16067124b)
+* LinkedIn:(linkedin.com/in/lebohang-r-16067124b)

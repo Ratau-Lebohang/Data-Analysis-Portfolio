@@ -63,7 +63,7 @@ I use this repository to share my work and to document my learning journey.
 
 * Google Data Analytics Certification: [View Certificate](https://coursera.org/share/823b1543a47d3be09a2fe1f8f83628fb)
 
-## Contact
+## My Contact
 
 * Email: [rataulebohang8@gmail.com]
 * LinkedIn: [linkedin.com/in/lebohang-r-16067124b](linkedin.com/in/lebohang-r-16067124b)
